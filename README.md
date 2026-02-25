@@ -24,14 +24,13 @@
 
 <div align="center">
   <!-- GIF do gato -->
-  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4d45e4fb-8236-4541-8f20-44995ae65757" width="200">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-7a00ff" />
+  <img src="https://img.shields.io/badge/𝔤𝔞𝔰𝔱𝔩𝔶_𖦹-7a00ff" />
 </div>
-
-<br>
 
 <div align="center">
   <!-- Instagram -->
