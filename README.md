@@ -1,48 +1,57 @@
-<!-- ANIMATED SPACE HEADER PRO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7a00ff"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Qerathil&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&color=0:000000,25:0a0f1f,50:111827,75:1b1f3b,100:000000"/>
-</p>
+<div align="center">
+  <samp>
+    <b>
+      システムアナリスト
+      <br>
+      Olá, meu nome é <span style="color:#7a00ff;">Rafael</span>
+      <br>
+      <span style="font-size:14px;">(Qerathil)</span>
+    </b>
+  </samp>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Rafa+—+Technical+Student;Focused+on+Logic+and+Foundations;Learning+how+systems+actually+work"/>
-</p>
+<div align="center">
+  <p align="center">
+    <img align="center"
+    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=7a00ff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <!-- GIF do gato -->
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-7a00ff" />
+</div>
 
 <br>
 
-<p align="center">
-  2nd semester technical student at ETEC IPI.<br>
-  Passionate about understanding the logic behind technology.<br>
-  Building strong foundations in programming and data structures.<br>
-  Focused on depth over superficial knowledge.
-</p>
-
-<br>
-
-<!-- BADGES CLEAN -->
-<p align="center">
-
+<div align="center">
+  <!-- Instagram -->
   <a href="https://www.instagram.com/faelwe">
-    <img src="https://img.shields.io/badge/Instagram-@faelwe-black?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-faelwe-7a00ff?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</div>
 
-  <a href="https://github.com/zen69542-ship-it?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/zen69542-ship-it?style=for-the-badge&logo=github&color=white&labelColor=000000"/>
-  </a>
+<br>
 
-  <a href="https://github.com/zen69542-ship-it?tab=followers">
-    <img src="https://img.shields.io/github/followers/zen69542-ship-it?style=for-the-badge&logo=github&color=white&labelColor=000000"/>
-  </a>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7a00ff&width=900&size=21&center=true&lines=I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Also+a+Designer;Welcome+to+my+profile!" />
+</div>
 
-</p>
+<br>
+<br>
 
----
-
-## 🧠 About Me
-
-```diff
-+ 16 years old technical student
-+ Interested in logic and system architecture
-+ Constantly improving through practice
-+ Building solid fundamentals before complexity
-- Superficial learning
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=100&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
