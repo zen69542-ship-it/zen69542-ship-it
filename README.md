@@ -14,8 +14,8 @@
 
 <div align="center">
   <img 
-    src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=7a00ff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" 
-    alt="Profile Visits"
+    src="https://komarev.com/ghpvc/?username=qerathil&color=7a00ff&style=flat" 
+    alt="Profile Views"
   />
 </div>
 
