@@ -58,6 +58,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=100&section=footer"/>
 
+<div align="center">
+
+| <img height=180 align="center" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zen69542-ship-it&theme=radical"/> | <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen69542-ship-it&theme=radical&show_icons=true&hide_border=true&layout=compact"/> |
+| :-: | :-: |
+
+| <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zen69542-ship-it&theme=radical"/> |
+| :-: |
+
+</div>
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
