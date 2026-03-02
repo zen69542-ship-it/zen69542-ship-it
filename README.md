@@ -23,7 +23,7 @@
 
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/203b5602-2f52-4cf4-8139-8e434c778b7f" 
+    src="https://github.com/user-attachments/assets/63fc6564-bec6-4649-b8ad-fda026938b84" 
     width="200"
     alt="gif"
   />
