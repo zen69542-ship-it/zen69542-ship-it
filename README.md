@@ -5,9 +5,9 @@
     <b>
       ラフェル
       <br>
-      Olá, meu nome é <span style="color:#7a00ff;">Rafael</span>
+      Olá, meu nome é <span style="color:#7a00ff;">ℜ𝔞𝔣𝔞𝔢𝔩</span>
       <br>
-      <span style="font-size:14px;">(Qerathil)</span>
+      <span style="font-size:14px;">(𝔮𝔢𝔯𝔞𝔱𝔥𝔦𝔩 )</span>
     </b>
   </samp>
 </div>
