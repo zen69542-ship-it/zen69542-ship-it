@@ -56,10 +56,10 @@
 
 <div align="center">
 
-| <img height=180 align="center" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zen69542-ship-it&theme=radical"/> | <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen69542-ship-it&theme=radical&show_icons=true&hide_border=true&layout=compact"/> |
+| <img height=180 align="center" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zen69542-ship-it&theme=tokyonight"/> | <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen69542-ship-it&layout=compact&bg_color=0d1117&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&border_color=7c3aed"/> |
 | :-: | :-: |
 
-| <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zen69542-ship-it&theme=radical"/> |
+| <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zen69542-ship-it&theme=tokyonight"/> |
 | :-: |
 
 </div>
