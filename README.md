@@ -23,7 +23,7 @@
 
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/63fc6564-bec6-4649-b8ad-fda026938b84" 
+    src="https://github.com/user-attachments/assets/9ea4bd86-aa7a-4b93-befb-392620f7614c" 
     width="200"
     alt="gif"
   />
@@ -31,7 +31,7 @@
 
 <div align="center">
   <img 
-    src="https://img.shields.io/badge/𝔤𝔞𝔰𝔱𝔩𝔶_𖦹-7a00ff" 
+    src="https://img.shields.io/badge/qeramind-7a00ff" 
     alt="badge"
   />
 </div>
