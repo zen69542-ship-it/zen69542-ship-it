@@ -23,15 +23,15 @@
 
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/9ea4bd86-aa7a-4b93-befb-392620f7614c" 
-    width="200"
+    src="https://github.com/user-attachments/assets/44816a4c-cdb7-4dd8-9d59-17a9003d3278" 
+    width="500"
     alt="gif"
   />
 </div>
 
 <div align="center">
   <img 
-    src="https://img.shields.io/badge/qeramind-7a00ff" 
+    src="https://img.shields.io/badge/.ᐟ-7a00ff" 
     alt="badge"
   />
 </div>
@@ -49,7 +49,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7a00ff&width=900&size=21&center=true&lines=I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Also+a+Designer;Welcome+to+my+profile!"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7a00ff&width=900&size=21&center=true&lines=Brazill;Student+of+Analysis+and+Systems+Development;Also+a+Designer;Welcome+to+my+profile!"
     alt="typing animation"
   />
 </div>
